@@ -88,7 +88,9 @@ print("Predicted Profit:", np.dot(sample, w))
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+
+<img width="750" height="87" alt="image" src="https://github.com/user-attachments/assets/f2e03124-cb9f-4158-b1fb-3677d534316d" />
+
 
 
 ## Result:
