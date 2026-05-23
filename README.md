@@ -8,10 +8,14 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Load the startup dataset, apply one-hot encoding to categorical data, and separate features (X) and target variable (Profit).
+
+2. Normalize the feature values, add a bias column, and initialize weights for the Multiple Linear Regression model.
+
+3. Train the model using Gradient Descent by repeatedly updating weights to minimize prediction error.
+
+4. Prepare and normalize new startup data, then use the trained model to predict the startup’s profit.
+
 
 ## Program:
 ```
